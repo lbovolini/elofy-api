@@ -1,0 +1,17 @@
+com/github/lbovolini/elofy/config/JerseyApplication.class
+com/github/lbovolini/elofy/exception/NameAlreadyRegisteredException.class
+com/github/lbovolini/elofy/service/PeopleService.class
+com/github/lbovolini/elofy/model/People.class
+com/github/lbovolini/elofy/repository/BaseRepository.class
+com/github/lbovolini/elofy/exception/NameAlreadyRegisteredMapper.class
+com/github/lbovolini/elofy/message/ErrorMessage.class
+com/github/lbovolini/elofy/exception/ExceptionMapper.class
+com/github/lbovolini/elofy/message/InputError.class
+com/github/lbovolini/elofy/config/DependencyBinder.class
+com/github/lbovolini/elofy/exception/NotFoundException.class
+com/github/lbovolini/elofy/repository/PeopleRepository.class
+com/github/lbovolini/elofy/message/FormErrorMessage.class
+com/github/lbovolini/elofy/controller/PeopleController.class
+com/github/lbovolini/elofy/exception/NotFoundMapper.class
+com/github/lbovolini/elofy/repository/PeopleRepositoryImpl.class
+com/github/lbovolini/elofy/config/CORSFilter.class

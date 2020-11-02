@@ -1,0 +1,17 @@
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/exception/NotFoundMapper.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/repository/PeopleRepository.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/model/People.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/service/PeopleService.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/repository/PeopleRepositoryImpl.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/message/ErrorMessage.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/config/JerseyApplication.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/repository/BaseRepository.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/controller/PeopleController.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/exception/NameAlreadyRegisteredException.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/config/CORSFilter.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/exception/ExceptionMapper.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/exception/NameAlreadyRegisteredMapper.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/exception/NotFoundException.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/message/InputError.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/message/FormErrorMessage.java
+/home/lucas/Dev/elofy/src/main/java/com/github/lbovolini/elofy/config/DependencyBinder.java
